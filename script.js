@@ -5,3 +5,5 @@ let listContainer = document.querySelector(".list");
 
 let date = new Date();
 console.log(date.getTime());
+
+const [timestamp, apiKey, hashValue] = [ts, publicKey, hashVal]; 
